@@ -1,6 +1,6 @@
 {
     "name": "iconic/stringy",
-    "description": "A fork of danielstjules/Stringy fixing php 7.3 compatibility and greek letter Θ slbeing slugified to O instead of ΤΗ. A string manipulation library with multibyte support",
+    "description": "A fork of danielstjules/Stringy fixing php 7.3 compatibility and greek letter Θ being slugified to O instead of ΤΗ. A string manipulation library with multibyte support",
     "keywords": [
         "multibyte", "string", "manipulation", "utility", "methods", "utf-8",
         "helpers", "utils", "utf"
