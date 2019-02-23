@@ -1,3 +1,7 @@
+# Fork to fix php 7.3 compatibility and slugifying issue with greek Θ converting to O and not th as it should
+
+
+
 ![Stringy](http://danielstjules.com/github/stringy-logo.png)
 
 A PHP string manipulation library with multibyte support. Compatible with PHP
