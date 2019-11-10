@@ -1,4 +1,7 @@
-# Fork to fix php 7.3 compatibility and slugifying issue with greek Θ converting to O and not th as it should
+# Fork to fix php 7.3 compatibility and slugifying issue with greek 
+
+- Θ converting to O and not th as it should
+- ή converting to i and not h as it should
 
 
 
